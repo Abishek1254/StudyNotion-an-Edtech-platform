@@ -1,4 +1,4 @@
-const BASE_URL = 'https://studynotion-an-edtech-platform-cfzo.onrender.com' // Fallback to localhost if env variable is not set
+const BASE_URL = 'https://studynotion-an-edtech-platform-cfzo.onrender.com/api/v1' // Fallback to localhost if env variable is not set
 
 // AUTH ENDPOINTS
 export const endpoints = {

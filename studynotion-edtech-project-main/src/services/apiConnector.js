@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASE_URL = process.env.REACT_APP_BASE_URL || 'https://studynotion-an-edtech-platform-cfzo.onrender.com' // Fallback to localhost if env variable is not set
+const BASE_URL = process.env.REACT_APP_BASE_URL || 'https://studynotion-an-edtech-platform-cfzo.onrender.com/api/v1' // Fallback to localhost if env variable is not set
 
 export const axiosInstance = axios.create({});
 
