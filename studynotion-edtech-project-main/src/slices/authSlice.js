@@ -8,7 +8,7 @@ const initialState = {
 
 const authSlice = createSlice({
   name: "auth",
-  initialState: initialState,
+  initialState: initialState, 
   reducers: {
     setSignupData(state, value) {
       state.signupData = value.payload;
