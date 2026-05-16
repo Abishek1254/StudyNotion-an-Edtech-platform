@@ -40,7 +40,7 @@ function Home() {
         <div className="-mt-3 w-[90%] text-center text-lg font-bold text-richblack-300">
           With our online coding courses, you can learn at your own specific pace, from
           anywhere in the world, and get access to a wealth of resources,
-          including hands-on projects, quizzes, and personalized feedback from
+          including a lots of hands-on projects, quizzes, and personalized feedback from
           instructors.
         </div>
 
